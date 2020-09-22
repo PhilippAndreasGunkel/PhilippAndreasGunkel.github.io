@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Recent work', folder: 'pages', file: 'recent_work.html'}
+- {name: 'Recent work', folder: 'pages', file: 'facts.html'}
 - {name: 'Publications', folder: 'pages', file: 'resources.html'}
 - {name: 'Conferences and talks', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
