@@ -17,6 +17,7 @@ image: arctic-4.jpg
 <li>Simon Bolwig, Torjus Folsland Bolkesjø, ... Philipp Andreas Gunkel, Klaus Skytte. Climate friendly but socially rejected energy transitions pathways: Integration of techno-economic and socio-technical approaches in the Nordic-Baltic region. Energy Research & Social Science, https://doi.org/10.1016/j.erss.2020.101559 </li>
 </ul>
 <br/>
+
 ## Conference publications <br/>
 <ul>
 <li>P.A. Gunkel; F.J. Fausto, K. Skytte; C. Bergaentzlé; The Impact of EV Charging Schemes on the Nordic Energy System, in the 2019 16th International Conference on the European Energy Market. IEEE Xplore. </li><br/>
@@ -26,12 +27,14 @@ image: arctic-4.jpg
 <li>Yi-Kuang Chen; Hardi Koduvere; Philipp A. Gunkel; Jon Gustav Kirkerud; Klaus Skytte; Hans Ravn; Torjus F. Bolkesjø; The Role of Cross-Border Power Transmission in a Renewable-Rich Power System – a Model Analysis for Northwestern Europe, in the 2019 CONECT Conference in Riga, Latvia (ECT). </li>
 </ul>
 <br/>
+
 ## Reports <br/>
 <ul>
 <li>K. Skytte, C. Bergaentzlé, F. J. Fausto, Philipp A. Gunkel (DTU), Flexible Nordic Energy Systems, ISBN: 97887-93458-65-9, August 2019, https://www.nordicenergy.org/wpcontent/uploads/2019/07/Flex4RES_final_summary_report_aug2019.pdf </li><br/>
 <li>K. Skytte, C. Bergaentzlé, F. J. Fausto, Philipp A. Gunkel (DTU), P. Lund (Aalto), Flexible Nordic Energy Systems; Policy Brief – Key recommendations, ISBN: 978-87-93458-66-9, August 2019, https://www.nordicenergy.org/wp-content/uploads/2019/09/Flex4RES_Policy-Brief-2019.pdf </li>
 </ul>
 <br/>
+
 ## Comments <br/>
 
 
